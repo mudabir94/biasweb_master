@@ -25,7 +25,7 @@ SECRET_KEY = '#nve)401#b-vm9+g$06zvc%ozu6^a78za+6+b9g$(%@-_4en^u'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['djangobiasmaster-env.hdqmwzzg8m.eu-west-2.elasticbeanstalk.com']
 
 
 # Application definition
