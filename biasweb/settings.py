@@ -83,7 +83,7 @@ DATABASES = {
             'NAME': 'django_biasweb',
             'USER': 'root',
             'PASSWORD': 'Opensesame1',
-            'HOST': '127.0.0.1',
+            'HOST': 'localhost',
             'PORT': '3306',
         }
     }
